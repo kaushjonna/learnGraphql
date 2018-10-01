@@ -22,7 +22,6 @@ const resolvers = {
       }
       links.push(link)
       return link
-    }
   },
 }
 //3
